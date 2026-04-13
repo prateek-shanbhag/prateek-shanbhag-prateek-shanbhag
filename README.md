@@ -6,19 +6,17 @@
 <h3 align="center">🚀 Exploring CS & Building Cool Stuff</h3>
 
 <p align="center">
-  <a href="mailto:prateekshanbhag07@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/email.png" height="40" />
+  <a href="mailto:prateekshanbhag07@gmail.com" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/48/email.png" height="28" style="vertical-align:middle;" />
+    <span style="vertical-align:middle; margin-left:8px;">Email</span>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prateek-shanbhag-20a625385/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="40" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="mailto:prateekshanbhag07@gmail.com">Email</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prateek-shanbhag-20a625385/">LinkedIn</a>
+
+  <a href="https://www.linkedin.com/in/prateek-shanbhag-20a625385/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="28" style="vertical-align:middle;" />
+    <span style="vertical-align:middle; margin-left:8px;">LinkedIn</span>
+  </a>
 </p>
 
 ---
