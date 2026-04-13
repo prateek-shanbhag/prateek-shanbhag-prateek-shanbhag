@@ -8,9 +8,9 @@
 <p align="center">
   <a href="mailto:prateekshanbhag07@gmail.com">
     <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/8138fc23-15c1-42fc-9b2d-29b8cc803f6a" />
- Email
-  </a> • 
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/prateek-shanbhag-20a625385/)">
+ Email.
+  </a> 
+  <a href="https://www.linkedin.com/in/prateek-shanbhag-20a625385/">
     <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9426c59b-be18-4a12-8384-86ac000c39e9" />
  LinkedIn
   </a>
@@ -40,3 +40,6 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+## 🐍Something Cool
+![snake gif](https://github.com/PixelKnightDev/PixelKnightDev/blob/output/github-contribution-grid-snake.svg)
