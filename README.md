@@ -7,12 +7,11 @@
 
 <p align="center">
   <a href="mailto:prateekshanbhag07@gmail.com">
-    <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/8138fc23-15c1-42fc-9b2d-29b8cc803f6a" />
- Email.
-  </a> 
+    <img src="https://img.icons8.com/fluency/48/email.png" height="40"/><br>Email
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/prateek-shanbhag-20a625385/">
-    <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9426c59b-be18-4a12-8384-86ac000c39e9" />
- LinkedIn
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40"/><br>LinkedIn
   </a>
 </p>
 
